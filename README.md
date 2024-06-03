@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/omathot](github.com/omathot)
 
-- 📝 I regularly write articles on [!website_coming_soon](!website_coming_soon)
+- 📝 My website, [!website_coming_soon](!website_coming_soon)
 
 - 💬 Ask me about **ECS, the game industry, my cat, music, or whatever else comes up.**
 
