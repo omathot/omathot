@@ -11,8 +11,6 @@
 
 - 👨‍💻 All of my projects are available here, [github.com/omathot](github.com/omathot)
 
-- 📝 My website, [!website_coming_soon](!website_coming_soon)
-
 - 💬 Ask me about **ECS, the game industry, my cat, music, or whatever else comes up.**
 
 - 📫 How to reach me **omathot_github@proton.me**
