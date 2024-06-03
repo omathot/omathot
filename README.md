@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with [understanding raspberrypi OS dev](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)
 
-- 👨‍💻 All of my projects are available at here, [github.com/omathot](github.com/omathot)
+- 👨‍💻 All of my projects are available here, [github.com/omathot](github.com/omathot)
 
 - 📝 My website, [!website_coming_soon](!website_coming_soon)
 
