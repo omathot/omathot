@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oscar :)</h1>
-<h3 align="center">Codam Student, passionate with lower level programming, game design/systems, and music.</h3>
+<h3 align="center">Codam Student, passionate with programming, game design/systems, and music.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omathot" alt="omathot" /></a> </p>
 
