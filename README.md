@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omathot" alt="omathot" /></a> </p>
 
-- 🔭 I’m currently working on [bevy_fun](https://github.com/omathot/bevy_fun)
+- 🔭 I’m currently working on [odin_game](https://github.com/omathot/odin_game)
 
-- 🌱 I’m currently learning **Rust, and game engine architecture.**
+- 🌱 I’m currently learning **Odin, and game engine architecture.**
 
 - 🤝 I’m looking for help with [understanding raspberrypi OS dev](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)
 
