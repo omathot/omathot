@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available here, [github.com/omathot](github.com/omathot)
 
-- 💬 Ask me about **Games, the game industry, my cat, music, or whatever else comes up.**
+- 💬 Ask me about **games, the game industry, my cat, music, or whatever else comes up.**
 
 - 📫 How to reach me **omathot_github@proton.me**
 
